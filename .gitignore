@@ -1,0 +1,4 @@
+# Local PDF extraction tools and validation artifacts
+.venv/
+.cache/
+__pycache__/
